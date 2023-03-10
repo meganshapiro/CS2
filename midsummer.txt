@@ -1,0 +1,3450 @@
+THESEUS  Duke Athens 
+EGEUS  Father Hermia 
+LYSANDER  love Hermia 
+DEMETRIUS  love Hermia 
+PHILOSTRATE  Master Revels Theseus 
+QUINCE  Carpenter 
+SNUG  Joiner 
+BOTTOM  Weaver 
+FLUTE  Bellows-mender 
+SNOUT  Tinker 
+STARVELING  Tailor 
+
+HIPPOLYTA  Queen Amazons  bethrothed Theseus 
+HERMIA  daughter Egeus  love Lysander 
+HELENA  love Demetrius 
+
+OBERON  King Fairies 
+TITANIA  Queen Fairies 
+PUCK  ROBIN GOODFELLOW  Fairy 
+PEASBLOSSOM  Fairy 
+COBWEB  Fairy 
+MOTH  Fairy 
+MUSTARDSEED  Fairy 
+
+PYRAMUS  THISBE  WALL  MOONSHINE  LION } Characters the
+Interlude performed Clowns 
+
+Other Fairies attending King Queen 
+Attendants Theseus Hippolyta 
+
+
+
+SCENE  Athens  wood far 
+
+ACT 
+
+SCENE  Athens  room Palace THESEUS 
+
+ Enter THESEUS  HIPPOLYTA  PHILOSTRATE  Attendants  
+
+THESEUS
+Now  fair Hippolyta  our nuptial hour
+Draws apace  four happy days bring in
+Another moon    methinks  slow
+This old moon wanes  lingers desires 
+Like step-dame dowager 
+Long withering out young man's revenue 
+
+HIPPOLYTA
+Four days quickly steep themselves nights 
+Four nights quickly dream away time 
+And moon  silver bow
+New bent heaven  behold night
+Of our solemnities 
+
+THESEUS
+                     Philostrate 
+Stir Athenian youth merriments 
+Awake pert nimble spirit mirth 
+Turn melancholy forth funerals 
+The pale companion our pomp   
+
+ Exit PHILOSTRATE  
+
+Hippolyta  woo'd sword 
+And won love doing injuries 
+But wed another key 
+With pomp  triumph  revelling 
+
+ Enter EGEUS  HERMIA  LYSANDER  DEMETRIUS  
+
+EGEUS
+Happy Theseus  our renowned duke 
+
+THESEUS
+Thanks  good Egeus  what's news 
+
+EGEUS
+Full vexation come  complaint
+Against child  daughter Hermia  
+Stand forth  Demetrius  noble lord 
+This man hath consent marry  
+Stand forth  Lysander   gracious duke 
+This man hath bewitch'd bosom child 
+Thou   Lysander  hast given rhymes 
+And interchang'd love-tokens child 
+Thou hast moonlight at window sung 
+With feigning voice  verses feigning love 
+And stol'n impression fantasy
+With bracelets hair  rings  gawds  conceits 
+Knacks  trifles  nosegays  sweetmeats  messengers
+Of strong prevailment unharden'd youth  
+With cunning hast filch'd daughter's heart 
+Turned obedience  which due 
+To stubborn harshness   gracious duke 
+Be here before grace
+Consent marry Demetrius 
+I beg ancient privilege Athens  
+As mine may dispose 
+Which either gentleman
+Or death  according our law
+Immediately provided case 
+
+THESEUS
+What say  Hermia  advis'd  fair maid 
+To father should god 
+One compos'd beauties  yea  one
+To whom form wax 
+By him imprinted  within power
+To leave figure  disfigure 
+Demetrius worthy gentleman 
+
+HERMIA
+So Lysander 
+
+THESEUS
+                himself 
+But  kind  wanting father's voice 
+The other must held worthier 
+
+HERMIA
+I would father look'd eyes 
+
+THESEUS
+Rather eyes must judgment look 
+
+HERMIA
+I entreat grace pardon 
+I know power made bold 
+Nor may concern modesty
+In presence here plead thoughts 
+But beseech grace may know
+The worst may befall case
+If refuse wed Demetrius 
+
+THESEUS
+Either die death  abjure
+For ever society men 
+Therefore  fair Hermia  question desires 
+Know youth  examine blood 
+Whether  yield father's choice 
+You can endure livery nun 
+For aye shady cloister mew'd 
+To live barren sister life 
+Chanting faint hymns cold  fruitless moon 
+Thrice-blessed master blood
+To undergo maiden pilgrimage 
+But earthlier happy rose distill'd
+Than which  withering virgin thorn 
+Grows  lives  dies  single blessedness 
+
+HERMIA
+So grow  live  die  lord 
+Ere yield virgin patent up
+Unto lordship  whose unwished yoke
+My soul consents give sovereignty 
+
+THESEUS
+Take time pause  next new moon  
+The sealing-day betwixt love me
+For everlasting bond fellowship  
+Upon day either prepare die
+For disobedience father's 
+Or else wed Demetrius  would 
+Or Diana's altar protest
+For aye austerity single life 
+
+DEMETRIUS
+Relent  sweet Hermia   Lysander  yield
+Thy crazed title certain right 
+
+LYSANDER
+You father's love  Demetrius 
+Let Hermia's  marry him 
+
+EGEUS
+Scornful Lysander  true  hath love 
+And mine love render him 
+And mine  right her
+I estate unto Demetrius 
+
+LYSANDER
+I  lord  deriv'd 
+As possess'd  love more than 
+My fortunes every way fairly rank'd 
+If vantage  Demetrius's 
+And  which more than these boasts can 
+I belov'd beauteous Hermia 
+Why should prosecute right 
+Demetrius  avouch head 
+Made love Nedar's daughter  Helena 
+And won soul   sweet lady  dotes 
+Devoutly dotes  dotes idolatry 
+Upon spotted inconstant man 
+
+THESEUS
+I must confess heard much 
+And Demetrius thought spoke thereof 
+But  being over-full self-affairs 
+My mind lose   Demetrius  come 
+And come  Egeus  
+I some private schooling both  
+For  fair Hermia  look arm yourself
+To fit fancies father's 
+Or else law Athens yields  
+Which means may extenuate  
+To death  vow single life  
+Come  Hippolyta  cheer  love 
+Demetrius  Egeus  along 
+I must employ some business
+Against our nuptial  confer you
+Of something nearly concerns yourselves 
+
+EGEUS
+With duty desire follow 
+
+ Exeunt THESEUS  HIPPOLYTA  EGEUS  DEMETRIUS  Train  
+
+LYSANDER
+How  love  cheek pale 
+How chance roses there fade fast 
+
+HERMIA
+Belike want rain  which could well
+Beteem tempest eyes 
+
+LYSANDER
+Ah  aught could ever read 
+Could ever hear tale history 
+The course true love never run smooth 
+But either was different blood  
+
+HERMIA
+O cross  Too high enthrall'd low 
+
+LYSANDER
+Or else misgraffed respect years  
+
+HERMIA
+O spite  Too old engag'd young 
+
+LYSANDER
+Or else stood upon choice friends 
+
+HERMIA
+O hell  choose love another's eye 
+
+LYSANDER
+Or  there were sympathy choice 
+War  death  sickness  lay siege 
+Making momentary sound 
+Swift shadow  short any dream 
+Brief lightning collied night
+That  spleen  unfolds both heaven earth 
+And ere man hath power say  Behold 
+The jaws darkness devour 
+So quick bright things come confusion 
+
+HERMIA
+If true lovers ever cross'd 
+It stands edict destiny 
+Then teach our trial patience 
+Because customary cross 
+As due love thoughts  dreams  sighs 
+Wishes tears  poor fancy's followers 
+
+LYSANDER
+A good persuasion  therefore  hear  Hermia 
+I widow aunt  dowager
+Of great revenue  hath child 
+From Athens house remote seven leagues 
+And respects only son 
+There  gentle Hermia  may marry 
+And place sharp Athenian law
+Cannot pursue  lovest 
+Steal forth father's house tomorrow night 
+And wood  league without town 
+Where meet once Helena 
+To observance morn May 
+There stay 
+
+HERMIA
+                            good Lysander 
+I swear Cupid's strongest bow 
+By best arrow  golden head 
+By simplicity Venus' doves 
+By which knitteth souls prospers loves 
+And fire which burn'd Carthage queen 
+When false Trojan under sail was seen  
+By vows ever men broke 
+In number more than ever women spoke  
+In same place hast appointed 
+Tomorrow truly meet 
+
+LYSANDER
+Keep promise  love  Look  here comes Helena 
+
+ Enter HELENA  
+
+HERMIA
+God speed fair Helena  Whither away 
+
+HELENA
+Call fair  fair again unsay 
+Demetrius loves fair  happy fair 
+Your eyes lode-stars  tongue's sweet air
+More tuneable than lark shepherd's ear 
+When wheat green  when hawthorn buds appear 
+Sickness catching   were favour 
+Yours would catch  fair Hermia  ere 
+My ear should catch voice  eye eye 
+My tongue should catch tongue's sweet melody 
+Were world mine  Demetrius being bated 
+The rest I'd give translated 
+O  teach look  art
+You sway motion Demetrius' heart 
+
+HERMIA
+I frown upon him  loves still 
+
+HELENA
+O frowns would teach smiles skill 
+
+HERMIA
+I give him curses  gives love 
+
+HELENA
+O prayers could affection move 
+
+HERMIA
+The more hate  more follows 
+
+HELENA
+The more love  more hateth 
+
+HERMIA
+His folly  Helena  fault mine 
+
+HELENA
+None  beauty  would fault were mine 
+
+HERMIA
+Take comfort  more see face 
+Lysander myself fly place  
+Before time Lysander see 
+Seem'd Athens paradise 
+O   graces love dwell 
+That hath turn'd heaven unto hell 
+
+LYSANDER
+Helen  our minds unfold 
+To-morrow night  when Phoebe doth behold
+Her silver visage watery glass 
+Decking liquid pearl bladed grass  
+A time lovers' flights doth still conceal  
+Through Athens' gates devis'd steal 
+
+HERMIA
+And wood where often I
+Upon faint primrose beds were wont lie 
+Emptying our bosoms counsel sweet 
+There Lysander myself meet 
+And thence Athens turn away our eyes 
+To seek new friends stranger companies 
+Farewell  sweet playfellow  pray 
+And good luck grant Demetrius  
+Keep word  Lysander  must starve our sight
+From lovers' food  till morrow deep midnight 
+
+LYSANDER
+I  Hermia 
+
+ Exit HERMIA  
+
+LYSANDER
+                   Helena  adieu 
+As him  Demetrius dote 
+
+ Exit LYSANDER  
+
+HELENA
+How happy some o'er other some can 
+Through Athens thought fair 
+But  Demetrius thinks 
+He know know 
+And errs  doting Hermia's eyes 
+So  admiring qualities 
+Things base vile  holding quantity 
+Love can transpose form dignity 
+Love looks eyes  mind 
+And therefore wing'd Cupid painted blind 
+Nor hath love's mind any judgment taste 
+Wings eyes figure unheedy haste 
+And therefore love said child 
+Because choice oft beguil'd 
+As waggish boys game themselves forswear 
+So boy Love perjur'd everywhere 
+For ere Demetrius look'd Hermia's eyne 
+He hail'd down oaths was only mine 
+And when hail some heat Hermia felt 
+So dissolv'd  showers oaths melt 
+I tell him fair Hermia's flight 
+Then wood to-morrow night
+Pursue  intelligence
+If thanks  dear expense 
+But herein mean enrich pain 
+To sight thither back again 
+
+ Exit HELENA  
+
+
+
+SCENE II  Same  Room Cottage 
+
+ Enter SNUG  BOTTOM  FLUTE  SNOUT  QUINCE  STARVELING  
+
+QUINCE
+Is our company here 
+
+BOTTOM
+You were best call generally  man man 
+according scrip 
+
+QUINCE
+Here scroll every man's name  which thought
+fit  through Athens  play our interlude before the
+duke duchess wedding-day at night 
+
+BOTTOM
+First  good Peter Quince  say play treats 
+then read names actors  grow point 
+
+QUINCE
+Marry  our play most lamentable comedy most
+cruel death Pyramus Thisby 
+
+BOTTOM
+A very good piece work  assure  merry  
+Now  good Peter Quince  call forth actors scroll  
+Masters  spread yourselves 
+
+QUINCE
+Answer  call  Nick Bottom  weaver 
+
+BOTTOM
+Ready  Name part  proceed 
+
+QUINCE
+You  Nick Bottom  set down Pyramus 
+
+BOTTOM
+What Pyramus  lover  tyrant 
+
+QUINCE
+A lover  kills himself most gallantly love 
+
+BOTTOM
+That ask some tears true performing 
+If  audience look eyes  move
+storms  condole some measure  rest  my
+chief humour tyrant  could play Ercles rarely  a
+part tear cat  make split 
+
+The raging rocks
+And shivering shocks
+Shall break locks
+    prison gates 
+
+And Phibbus' car
+Shall shine far 
+And make mar
+    foolish Fates 
+
+This was lofty  name rest players  is
+Ercles' vein  tyrant's vein  lover more condoling 
+
+QUINCE
+Francis Flute  bellows-mender 
+
+FLUTE
+Here  Peter Quince 
+
+QUINCE
+Flute  must take Thisby 
+
+FLUTE
+What Thisby  wandering knight 
+
+QUINCE
+It lady Pyramus must love 
+
+FLUTE
+Nay  faith  play woman  beard coming 
+
+QUINCE
+That's  play mask  may speak as
+small 
+
+BOTTOM
+An may hide face  play Thisby too 
+I'll speak monstrous little voice  'Thisne  Thisne ' 
+'Ah  Pyramus  lover dear  Thisby dear  lady dear '
+
+QUINCE
+No   must play Pyramus   Flute  Thisby 
+
+BOTTOM
+Well  proceed 
+
+QUINCE
+Robin Starveling  tailor 
+
+STARVELING
+Here  Peter Quince 
+
+QUINCE
+Robin Starveling  must play Thisby's mother  
+Tom Snout  tinker 
+
+SNOUT
+Here  Peter Quince 
+
+QUINCE
+You  Pyramus' father  myself  Thisby's father  Snug 
+the joiner   lion's part   hope  here play
+fitted 
+
+SNUG
+Have lion's part written  pray   give it
+me  slow study 
+
+QUINCE
+You may extempore  nothing roaring 
+
+BOTTOM
+Let play lion too  roar do
+any man's heart good hear  roar make the
+duke say 'Let him roar again  him roar again '
+
+QUINCE
+An should too terribly  would fright the
+duchess ladies  would shriek  were
+enough hang 
+
+ALL
+That would hang every mother's son 
+
+BOTTOM
+I grant  friends  should fright ladies
+out wits  would more discretion hang
+us  aggravate voice  roar as
+gently any sucking dove  roar 'twere any
+nightingale 
+
+QUINCE
+You can play part Pyramus  Pyramus a
+sweet-faced man  proper man  see summer's
+day  most lovely gentleman-like man  therefore must
+needs play Pyramus 
+
+BOTTOM
+Well  undertake  beard were best play 
+
+QUINCE
+Why  
+
+BOTTOM
+I discharge either straw-colour beard 
+your orange-tawny beard  purple-in-grain beard  your
+French-crown-colour beard  perfect yellow 
+
+QUINCE
+Some French crowns hair at  and
+then play bare-faced    masters  here your
+parts  entreat  request  desire  to
+con to-morrow night  meet palace wood  a
+mile without town  moonlight  there rehearse  for
+if meet city  dogg'd company  our
+devices known  meantime draw bill properties 
+such our play wants  pray  fail 
+
+BOTTOM
+We meet  there may rehearse most obscenely
+and courageously  Take pains  perfect  adieu 
+
+QUINCE
+At duke's oak meet 
+
+BOTTOM
+Enough  hold  cut bow-strings 
+
+ Exeunt  
+
+
+ACT II 
+
+
+SCENE  wood near Athens 
+
+ Enter FAIRY at door  PUCK at another  
+
+PUCK
+How  spirit  whither wander 
+
+FAIRY
+    Over hill  over dale 
+      Thorough bush  thorough brier 
+    Over park  over pale 
+      Thorough flood  thorough fire 
+    wander everywhere 
+    Swifter than moon's sphere 
+    serve fairy queen 
+    dew orbs upon green 
+    cowslips tall pensioners 
+    gold coats spots see 
+    Those rubies  fairy favours 
+    those freckles live savours 
+I must seek some dew-drops here 
+And hang pearl every cowslip's ear 
+Farewell  lob spirits  gone 
+Our queen elves come here anon 
+
+PUCK
+The king doth keep revels here to-night 
+Take heed Queen come within sight 
+For Oberon passing fell wrath 
+Because  attendant  hath
+A lovely boy  stol'n Indian king 
+She never had sweet changeling 
+And jealous Oberon would child
+Knight train  trace forests wild 
+But perforce withholds loved boy 
+Crowns him flowers  makes him joy 
+And never meet grove green 
+By fountain clear  spangled starlight sheen 
+But square  elves fear
+Creep into acorn cups  hide there 
+
+FAIRY
+Either mistake shape making quite 
+Or else shrewd knavish sprite
+Call'd Robin Goodfellow  he
+That frights maidens villagery 
+Skim milk  sometimes labour quern 
+And bootless make breathless housewife churn 
+And sometime make drink bear barm 
+Mislead night-wanderers  laughing at harm 
+Those Hobgoblin call  sweet Puck 
+You work  good luck 
+Are 
+
+PUCK
+                speak'st aright 
+I merry wanderer night 
+I jest Oberon  make him smile 
+When fat bean-fed horse beguile 
+Neighing likeness filly foal 
+And sometime lurk gossip's bowl 
+In very likeness roasted crab 
+And  when drinks  against lips bob 
+And withered dewlap pour ale 
+The wisest aunt  telling saddest tale 
+Sometime three-foot stool mistaketh 
+Then slip bum  down topples 
+And 'tailor' cries  falls into cough 
+And whole quire hold hips loffe 
+And waxen mirth  neeze  swear
+A merrier hour was never wasted there  
+But room  fairy  here comes Oberon 
+
+FAIRY
+And here mistress  Would were gone 
+
+ Enter OBERON at door  Train  TITANIA 
+at another  hers  
+
+OBERON
+Ill met moonlight  proud Titania 
+
+TITANIA
+What  jealous Oberon  Fairies  skip hence 
+I forsworn bed company 
+
+OBERON
+Tarry  rash wanton  lord 
+
+TITANIA
+Then must lady  know
+When hast stol'n away fairy-land 
+And shape Corin sat day 
+Playing pipes corn  versing love
+To amorous Phillida  art here 
+Come farthest steep India 
+But  forsooth  bouncing Amazon 
+Your buskin'd mistress warrior love 
+To Theseus must wedded  come
+To give bed joy prosperity 
+
+OBERON
+How canst  shame  Titania 
+Glance at credit Hippolyta 
+Knowing know love Theseus 
+Didst lead him through glimmering night
+From Perigenia  whom ravish'd 
+And make him fair Aegle break faith 
+With Ariadne Antiopa 
+
+TITANIA
+These forgeries jealousy 
+And never  since middle summer's spring 
+Met hill  dale  forest  mead 
+By paved fountain  rushy brook 
+Or beached margent sea 
+To dance our ringlets whistling wind 
+But brawls hast disturb'd our sport 
+Therefore winds  piping vain 
+As revenge  suck'd sea
+Contagious fogs  which  falling land 
+Hath every pelting river made proud
+That overborne continents 
+The ox hath therefore stretch'd yoke vain 
+The ploughman lost sweat  green corn
+Hath rotted ere youth attain'd beard 
+The fold stands empty drowned field 
+And crows fatted murrion flock 
+The nine men's morris fill'd mud 
+And quaint mazes wanton green 
+For lack tread  undistinguishable 
+The human mortals want winter here 
+No night hymn carol blest  
+Therefore moon  governess floods 
+Pale anger  washes air 
+That rheumatic diseases abound 
+And thorough distemperature see
+The seasons alter  hoary-headed frosts
+Fall fresh lap crimson rose 
+And old Hyem's thin icy crown
+An odorous chaplet sweet summer buds
+Is  mockery  set  spring  summer 
+The childing autumn  angry winter  change
+Their wonted liveries  maz'd world 
+By increase  knows which which 
+And same progeny evils comes
+From our debate  our dissension 
+We parents original 
+
+OBERON
+Do amend   lies 
+Why should Titania cross Oberon 
+I beg little changeling boy
+To henchman 
+
+TITANIA
+                   Set heart at rest 
+The fairy-land buys child 
+His mother was vot'ress order 
+And  spiced Indian air  night 
+Full often hath gossip'd side 
+And sat Neptune's yellow sands 
+Marking embarked traders flood 
+When laugh'd see sails conceive 
+And grow big-bellied wanton wind 
+Which  pretty swimming gait
+Following  womb rich young squire  
+Would imitate  sail upon land 
+To fetch trifles  return again 
+As voyage  rich merchandise 
+But  being mortal  boy die 
+And sake rear boy 
+And sake part him 
+
+OBERON
+How long within wood intend stay 
+
+TITANIA
+Perchance till after Theseus' wedding-day 
+If patiently dance our round 
+And see our moonlight revels  
+If  shun  spare haunts 
+
+OBERON
+Give boy 
+
+TITANIA
+Not fairy kingdom  Fairies  away 
+We chide downright longer stay 
+
+ Exit TITANIA Train  
+
+OBERON
+Well  way  shalt grove
+Till torment injury  
+My gentle Puck  come hither  remember'st
+Since once sat upon promontory 
+And heard mermaid  dolphin's back 
+Uttering dulcet harmonious breath 
+That rude sea grew civil at song 
+And certain stars shot madly spheres
+To hear sea-maid's music 
+
+PUCK
+                              remember 
+
+OBERON
+That very time saw  couldst  
+Flying between cold moon earth 
+Cupid  arm'd  certain aim took
+At fair vestal  throned west 
+And loos'd love-shaft smartly bow 
+As should pierce hundred thousand hearts 
+But might see young Cupid's fiery shaft
+Quench'd chaste beams watery moon 
+And imperial votaress passed 
+In maiden meditation  fancy-free 
+Yet mark'd where bolt Cupid fell 
+It fell upon little western flower  
+Before milk-white  purple love's wound  
+And maidens call love-in-idleness 
+Fetch flower  herb showed once 
+The juice sleeping eyelids laid
+Will make man woman madly dote
+Upon next live creature sees 
+Fetch herb  here again
+Ere leviathan can swim league 
+
+PUCK
+I'll put girdle round about earth
+In forty minutes 
+
+ Exit PUCK  
+
+OBERON
+                  Having once juice 
+I'll watch Titania when asleep 
+And drop liquor eyes 
+The next thing waking looks upon  
+Be lion  bear  wolf  bull 
+On meddling monkey  busy ape  
+She pursue soul love 
+And ere take charm off sight  
+As can take another herb 
+I'll make render page 
+But who comes here  invisible 
+And overhear conference 
+
+ Enter DEMETRIUS  HELENA following him  
+
+DEMETRIUS
+I love  therefore pursue 
+Where Lysander fair Hermia 
+The slay  other slayeth 
+Thou told'st were stol'n into wood 
+And here  wode within wood 
+Because cannot meet Hermia 
+Hence  get gone  follow more 
+
+HELENA
+You draw  hard-hearted adamant 
+But draw iron  heart
+Is true steel  Leave power draw 
+And power follow 
+
+DEMETRIUS
+Do entice  speak fair 
+Or  rather  plainest truth
+Tell  cannot love 
+
+HELENA
+And even love more 
+I spaniel   Demetrius 
+The more beat  fawn 
+Use spaniel  spurn  strike 
+Neglect  lose  only give leave 
+Unworthy  follow 
+What worser place can beg love 
+And place high respect  
+Than used use dog 
+
+DEMETRIUS
+Tempt too much hatred spirit 
+For sick when look 
+
+HELENA
+And sick when look 
+
+DEMETRIUS
+You impeach modesty too much 
+To leave city  commit yourself
+Into hands loves 
+To trust opportunity night 
+And ill counsel desert place 
+With rich worth virginity 
+
+HELENA
+Your virtue privilege 
+It night when see face 
+Therefore think night 
+Nor doth wood lack worlds company 
+For  respect  world 
+Then can said alone
+When world here look 
+
+DEMETRIUS
+I'll run  hide brakes 
+And leave mercy wild beasts 
+
+HELENA
+The wildest hath heart 
+Run when  story chang'd 
+Apollo flies  Daphne holds chase 
+The dove pursues griffin  mild hind
+Makes speed catch tiger  bootless speed 
+When cowardice pursues valour flies 
+
+DEMETRIUS
+I stay questions  
+Or  follow  believe
+But mischief wood 
+
+HELENA
+Ay  temple  town  field 
+You mischief  Fie  Demetrius 
+Your wrongs set scandal sex 
+We cannot fight love men may 
+We should woo'd  were made woo 
+I'll follow  make heaven hell 
+To die upon hand love 
+
+ Exeunt DEMETRIUS HELENA  
+
+OBERON
+Fare  nymph  ere leave grove 
+Thou shalt fly him  seek love  
+
+ Re-enter PUCK  
+
+Hast flower there  Welcome  wanderer 
+
+PUCK
+Ay  there 
+
+OBERON
+                 pray give 
+I know bank whereon wild thyme blows 
+Where ox-lips nodding violet grows 
+Quite over-canopied luscious woodbine 
+With sweet musk-roses  eglantine 
+There sleeps Titania sometime night 
+Lulled these flowers dances delight 
+And there snake throws enamell'd skin 
+Weed wide enough wrap fairy 
+And juice streak eyes 
+And make full hateful fantasies 
+Take some  seek through grove 
+A sweet Athenian lady love
+With disdainful youth  anoint eyes 
+But when next thing espies
+May lady  shalt know man
+By Athenian garments hath 
+Effect some care  may prove
+More fond than upon love 
+And look meet ere first cock crow 
+
+PUCK
+Fear  lord  servant 
+
+ Exeunt  
+
+
+
+SCENE II  Another part wood 
+
+ Enter TITANIA  Train  
+
+TITANIA
+Come  roundel fairy song 
+Then  third part minute  hence 
+Some kill cankers musk-rose buds 
+Some war rere-mice leathern wings 
+To make small elves coats  some keep back
+The clamorous owl  nightly hoots wonders
+At our quaint spirits  Sing asleep 
+Then offices  rest 
+
+      SONG 
+        
+FIRST FAIRY
+   spotted snakes  double tongue 
+     Thorny hedgehogs  seen 
+   Newts blind-worms wrong 
+     Come near our fairy queen 
+
+     CHORUS 
+   Philomel  melody 
+   Sing our sweet lullaby 
+Lulla  lulla  lullaby  lulla  lulla  lullaby 
+   Never harm  spell  charm 
+   Come our lovely lady nigh 
+   good-night  lullaby 
+
+        II 
+SECOND FAIRY
+   Weaving spiders  come here 
+     Hence  long-legg'd spinners  hence 
+   Beetles black  approach near 
+     Worm snail offence 
+
+    CHORUS
+Philomel melody  &c 
+
+
+FIRST FAIRY
+Hence away  
+One  aloof  stand sentinel 
+
+ Exeunt Fairies  TITANIA sleeps  
+
+ Enter OBERON  
+
+OBERON
+What seest when dost wake 
+ Squeezes flower TITANIA'S eyelids  
+Do true-love take 
+Love languish sake 
+Be ounce  cat  bear 
+Pard  boar bristled hair 
+In eye appear
+When wak'st  dear 
+Wake when some vile thing near 
+
+ Exit  
+
+ Enter LYSANDER HERMIA  
+
+LYSANDER
+Fair love  faint wandering wood 
+   speak troth  forgot our way 
+We'll rest  Hermia  think good 
+  tarry comfort day 
+
+HERMIA
+Be  Lysander  find out bed 
+For upon bank rest head 
+
+LYSANDER
+One turf serve pillow both 
+One heart  bed  two bosoms  troth 
+
+HERMIA
+Nay  good Lysander  sake  dear 
+Lie farther off  lie near 
+
+LYSANDER
+O  take sense  sweet  innocence 
+Love takes meaning love's conference 
+I mean heart unto yours knit 
+So heart can make 
+Two bosoms interchained oath 
+So two bosoms single troth 
+Then side bed-room deny 
+For lying  Hermia  lie 
+
+HERMIA
+Lysander riddles very prettily  
+Now much beshrew manners pride
+If Hermia meant say Lysander lied 
+But  gentle friend  love courtesy
+Lie further off  human modesty 
+Such separation may said
+Becomes virtuous bachelor maid 
+So far distant  good night  sweet friend 
+Thy love ne'er alter till sweet life end 
+
+LYSANDER
+Amen  amen  fair prayer say 
+And end life when end loyalty 
+Here bed  Sleep give rest 
+
+HERMIA
+With half wish wisher's eyes pressed 
+
+ sleep  
+
+ Enter PUCK  
+
+PUCK
+  Through forest gone 
+  Athenian found none 
+  whose eyes might approve
+  flower's force stirring love 
+  Night silence  Who here 
+  Weeds Athens doth wear 
+   master said 
+  Despised Athenian maid 
+  here maiden  sleeping sound 
+  dank dirty ground 
+  Pretty soul  durst lie
+  Near lack-love  kill-courtesy 
+  Churl  upon eyes throw
+  power charm doth owe 
+  When wak'st love forbid
+  Sleep seat eyelid 
+  awake when gone 
+  must Oberon 
+
+ Exit  
+
+ Enter DEMETRIUS HELENA  running  
+
+HELENA
+Stay  though kill  sweet Demetrius 
+
+DEMETRIUS
+I charge  hence  haunt 
+
+HELENA
+O  wilt darkling leave  
+
+DEMETRIUS 
+Stay peril  alone 
+
+ Exit DEMETRIUS  
+
+HELENA
+O  out breath fond chase 
+The more prayer  lesser grace 
+Happy Hermia  wheresoe'er lies 
+For hath blessed attractive eyes 
+How came eyes bright  salt tears 
+If  eyes oftener wash'd than hers 
+No   ugly bear 
+For beasts meet run away fear 
+Therefore marvel though Demetrius
+Do  monster  fly presence 
+What wicked dissembling glass mine
+Made compare Hermia's sphery eyne  
+But who here  Lysander  ground 
+Dead  asleep  see blood  wound 
+Lysander  live  good  awake 
+
+LYSANDER
+ Waking  
+And run through fire sweet sake 
+Transparent Helena  Nature shows art 
+That through bosom makes see heart 
+Where Demetrius   fit word
+Is vile name perish sword 
+
+HELENA
+Do say  Lysander  say 
+What though love Hermia  Lord  though 
+Yet Hermia still loves  content 
+
+LYSANDER 
+Content Hermia   repent
+The tedious minutes spent 
+Not Hermia Helena love 
+Who change raven dove 
+The man reason sway'd 
+And reason says worthier maid 
+Things growing ripe until season 
+So  being young  till ripe reason 
+And touching point human skill 
+Reason becomes marshal 
+And leads eyes  where o'erlook
+Love's stories  written love's richest book 
+
+HELENA
+Wherefore was keen mockery born 
+When at hands deserve scorn 
+Is't enough  is't enough  young man 
+That never   never can
+Deserve sweet look Demetrius' eye 
+But must flout insufficiency 
+Good troth  wrong  good sooth  
+In disdainful manner woo 
+But fare  perforce must confess 
+I thought lord more true gentleness 
+O  lady man refus'd
+Should another therefore abus'd 
+
+ Exit  
+
+LYSANDER
+She sees Hermia  Hermia  sleep there 
+And never mayst come Lysander near 
+For  surfeit sweetest things
+The deepest loathing stomach brings 
+Or  heresies men leave
+Are hated most those deceive 
+So  surfeit heresy 
+Of hated  most 
+And  powers  address love might
+To honour Helen  knight 
+
+ Exit  
+
+HERMIA
+ Starting  
+Help  Lysander  help  best
+To pluck crawling serpent breast 
+Ay  pity  dream was here 
+Lysander  look quake fear 
+Methought serpent eat heart away 
+And sat smiling at cruel prey  
+Lysander   removed  Lysander  lord 
+What  out hearing  gone  sound  word 
+Alack  where  speak  hear 
+Speak  loves  swoon almost fear 
+No  perceive nigh 
+Either death find immediately 
+
+ Exit  
+
+
+ACT III 
+
+SCENE  Wood  Queen Fairies lying asleep 
+
+ Enter QUINCE  SNUG  BOTTOM  FLUTE  SNOUT  STARVELING  
+
+BOTTOM
+Are met 
+
+QUINCE
+Pat  pat  here's marvellous convenient place our
+rehearsal  green plot our stage  hawthorn
+brake our tiring-house  action  will
+do before duke 
+
+BOTTOM
+Peter Quince  
+
+QUINCE
+What sayest  bully Bottom 
+
+BOTTOM
+There things comedy 'Pyramus Thisby' that
+will never please  First  Pyramus must draw sword kill
+himself  which ladies cannot abide  answer 
+
+SNOUT
+By'r lakin  parlous fear 
+
+STARVELING
+I believe must leave killing out  when done 
+
+BOTTOM
+Not whit  device make  Write a
+prologue  prologue seem say harm
+with our swords  Pyramus killed indeed  for
+the more better assurance  tell Pyramus not
+Pyramus Bottom weaver  put out fear 
+
+QUINCE
+Well  prologue  be
+written eight six 
+
+BOTTOM
+No  make two more  written eight eight 
+
+SNOUT
+Will ladies afeard lion 
+
+STARVELING
+I fear  promise 
+
+BOTTOM
+Masters  ought consider yourselves  bring 
+God shield  lion among ladies most dreadful thing 
+for there more fearful wild-fowl than lion living 
+and ought look 
+
+SNOUT
+Therefore another prologue must tell lion 
+
+BOTTOM
+Nay  must name name  half face must seen
+through lion's neck  himself must speak through 
+saying  same defect  'Ladies '  'Fair ladies  I
+would wish   would request   would entreat 
+not fear  tremble  life yours  think I
+come hither lion  were pity life   such
+thing  man other men ' there  indeed  him
+name name  tell plainly Snug joiner 
+
+QUINCE
+Well   there two hard things  that
+is  bring moonlight into chamber   know 
+Pyramus Thisbe meet moonlight 
+
+SNOUT
+Doth moon shine night play our play 
+
+BOTTOM
+A calendar  calendar  look almanack  find out
+moonshine  find out moonshine 
+
+QUINCE
+Yes  doth shine night 
+
+BOTTOM
+Why  may leave casement great chamber-window 
+where play  open  moon may shine at casement 
+
+QUINCE
+Ay  else must come bush thorns a
+lantern  say comes disfigure present person
+of moonshine  there another thing  must a
+wall great chamber  Pyramus Thisby  says the
+story  talk through chink wall 
+
+SNOUT
+You can never bring wall  say  Bottom 
+
+BOTTOM
+Some man other must present wall  him have
+some plaster  some loam  some rough-cast about him  to
+signify wall  him hold fingers  through that
+cranny Pyramus Thisby whisper 
+
+QUINCE
+If may   Come  sit down  every
+mother's son  rehearse parts  Pyramus  begin 
+when spoken speech  enter into brake  so
+every according cue 
+
+ Enter PUCK behind  
+
+PUCK
+What hempen homespuns swaggering here 
+So near cradle fairy queen 
+What  play toward  auditor 
+An actor too perhaps  see cause 
+
+QUINCE
+Speak  Pyramus  Thisby  stand forth 
+
+PYRAMUS
+  'Thisby  flowers odious savours sweet '
+
+QUINCE
+Odours  odours 
+
+PYRAMUS
+  ' odours savours sweet 
+  hath breath  dearest Thisby dear  
+But hark  voice  stay here awhile 
+  appear '
+
+ Exit  
+
+PUCK
+A stranger Pyramus than e'er played here 
+
+ Aside  Exit  
+
+THISBE
+Must speak 
+
+QUINCE
+Ay  marry  must  must understand goes
+but see noise heard  come again 
+
+THISBE
+  'Most radiant Pyramus  most lily white hue 
+  colour red rose triumphant brier 
+Most brisky juvenal  eke most lovely Jew 
+  true truest horse  would never tire 
+I'll meet  Pyramus  at Ninny's tomb '
+
+QUINCE
+Ninus' tomb  man   must speak 
+that answer Pyramus  speak part at once 
+cues   Pyramus enter  cue past  'never
+tire '
+
+ Re-enter PUCK  BOTTOM ass's head  
+
+THISBE
+O ' true truest horse  would never tire '
+
+PYRAMUS
+'If were fair  Thisby  were only thine  '
+
+QUINCE
+O monstrous  strange  haunted  Pray  masters 
+fly  masters  Help 
+
+ Exeunt Clowns  
+
+PUCK
+I'll follow  lead about round 
+  Through bog  through bush  through brake  through brier 
+Sometime horse  sometime hound 
+  hog  headless bear  sometime fire 
+And neigh  bark  grunt  roar  burn 
+Like horse  hound  hog  bear  fire  at every turn 
+
+ Exit  
+
+BOTTOM
+Why run away  knavery make
+me afeard 
+
+ Re-enter SNOUT  
+
+SNOUT
+O Bottom  art changed  see 
+
+BOTTOM
+What see  see ass-head own  
+
+ Re-enter QUINCE  
+
+QUINCE
+Bless  Bottom  bless  art translated 
+
+ Exit  
+
+BOTTOM
+I see knavery  make ass  to
+fright  could  stir this
+place  can  walk down here 
+and sing  hear afraid 
+
+ Sings  
+
+   ousel cock  black hue 
+     orange-tawny bill 
+   throstle note true 
+     wren little quill 
+
+TITANIA
+ Waking  
+What angel wakes flowery bed 
+
+BOTTOM
+ Sings  
+   finch  sparrow  lark 
+     plain-song cuckoo gray 
+   Whose note full many man doth mark 
+     dares answer nay  
+for  indeed  who would set wit foolish bird 
+Who would give bird lie  though cry 'cuckoo' never so 
+
+TITANIA
+I pray  gentle mortal  sing again 
+Mine ear much enamour'd note 
+So mine eye enthralled shape 
+And fair virtue's force perforce doth move 
+On first view  say  swear  love 
+
+BOTTOM
+Methinks  mistress  should little reason for
+that   say truth  reason love keep little
+company together now-a-days  more pity some honest
+neighbours make friends  Nay  can gleek upon
+occasion 
+
+TITANIA
+Thou art wise art beautiful 
+
+BOTTOM
+Not  neither  had wit enough get out of
+this wood  enough serve mine own turn 
+
+TITANIA
+Out wood desire 
+Thou shalt remain here whether wilt 
+I spirit common rate  
+The summer still doth tend upon state 
+And love  therefore  
+I'll give fairies attend 
+And fetch jewels deep 
+And sing  while pressed flowers dost sleep 
+And purge mortal grossness so
+That shalt airy spirit  
+Peasblossom  Cobweb  Moth  Mustardseed 
+
+ Enter Four Fairies  
+
+FIRST FAIRY
+Ready 
+
+SECOND FAIRY
+     
+
+THIRD FAIRY
+          
+
+FOURTH FAIRY
+               Where 
+
+TITANIA
+Be kind courteous gentleman 
+Hop walks gambol eyes 
+Feed him apricocks dewberries 
+With purple grapes  green figs  mulberries 
+The honey bags steal humble-bees 
+And  night-tapers  crop waxen thighs 
+And light at fiery glow-worm's eyes 
+To love bed arise 
+And pluck wings painted butterflies 
+To fan moonbeams sleeping eyes 
+Nod him  elves  him courtesies 
+
+FIRST FAIRY
+Hail  mortal 
+
+SECOND FAIRY
+Hail 
+
+THIRD FAIRY
+Hail 
+
+FOURTH FAIRY
+Hail 
+
+BOTTOM
+I cry worships mercy  heartily  beseech your
+worship's name 
+
+COBWEB
+Cobweb 
+
+BOTTOM
+I desire more acquaintance  good Master Cobweb  I
+cut finger  make bold  name  honest
+gentleman 
+
+PEASBLOSSOM
+Peasblossom 
+
+BOTTOM
+I pray  commend Mistress Squash  mother  and
+to Master Peascod  father  Good Master Peasblossom  I
+shall desire more acquaintance too  name  beseech
+you  
+
+MUSTARDSEED
+Mustardseed 
+
+BOTTOM
+Good Master Mustardseed  know patience 
+That same cowardly giant-like ox-beef hath devoured many a
+gentleman house  promise kindred hath made my
+eyes water ere  desire more acquaintance  good
+Master Mustardseed 
+
+TITANIA
+  Come  wait upon him  lead him bower 
+  moon  methinks  looks watery eye 
+And when weeps  weeps every little flower 
+  Lamenting some enforc&egrave d chastity 
+  Tie love's tongue  bring him silently 
+
+ Exeunt  
+
+
+
+SCENE II  Another part wood 
+
+ Enter OBERON  
+
+OBERON
+I wonder Titania awak'd 
+Then  was next came eye 
+Which must dote extremity 
+
+ Enter PUCK  
+
+Here comes messenger   mad spirit 
+What night-rule about haunted grove 
+
+PUCK
+My mistress monster love 
+Near close consecrated bower 
+While was dull sleeping hour 
+A crew patches  rude mechanicals 
+That work bread upon Athenian stalls 
+Were met together rehearse play
+Intended great Theseus' nuptial day 
+The shallowest thickskin barren sort
+Who Pyramus presented sport 
+Forsook scene enter'd brake 
+When him at advantage take 
+An ass's nowl fix&egrave d head 
+Anon  Thisbe must answered 
+And forth mimic comes  When him spy 
+As wild geese creeping fowler eye 
+Or russet-pated choughs  many sort 
+Rising cawing at gun's report 
+Sever themselves madly sweep sky 
+So at sight away fellows fly 
+And at our stamp here  o'er o'er falls 
+He murder cries  help Athens calls 
+Their sense weak  lost fears  strong 
+Made senseless things begin wrong 
+For briers thorns at apparel snatch 
+Some sleeves  some hats  yielders things catch 
+I led distracted fear 
+And left sweet Pyramus translated there 
+When moment  came pass  
+Titania wak'd  straightway lov'd ass 
+
+OBERON
+This falls out better than could devise 
+But hast latch'd Athenian's eyes
+With love-juice  bid do 
+
+PUCK
+I took him sleeping  finish'd too  
+And Athenian woman side 
+That  when wak'd  force must ey'd 
+
+ Enter DEMETRIUS HERMIA  
+
+OBERON
+Stand close  same Athenian 
+
+PUCK
+This woman  man 
+
+DEMETRIUS
+O  rebuke him loves so 
+Lay breath bitter bitter foe 
+
+HERMIA
+Now chide  should use worse 
+For  fear  hast given cause curse 
+If hast slain Lysander sleep 
+Being o'er shoes blood  plunge deep 
+And kill too 
+The sun was true unto day
+As  would stol'n away
+From sleeping Hermia  believe soon
+This whole earth may bor'd  moon
+May through centre creep displease
+Her brother's noontide antipodes 
+It cannot hast murder'd him 
+So should murderer look  dead  grim 
+
+DEMETRIUS
+So should murder'd look  should 
+Pierc'd through heart stern cruelty 
+Yet  murderer  look bright  clear 
+As yonder Venus glimmering sphere 
+
+HERMIA
+What's Lysander  where 
+Ah  good Demetrius  wilt give him 
+
+DEMETRIUS
+I had rather give carcass hounds 
+
+HERMIA
+Out  dog  out  cur  driv'st past bounds
+Of maiden's patience  Hast slain him  
+Henceforth never number'd among men 
+Oh  once tell true  tell true  even sake 
+Durst look'd upon him  being awake 
+And hast kill'd him sleeping  brave touch 
+Could worm  adder  much 
+An adder  doubler tongue
+Than thine  serpent  never adder stung 
+
+DEMETRIUS
+You spend passion mispris'd mood 
+I guilty Lysander's blood 
+Nor dead  aught can tell 
+
+HERMIA
+I pray  tell   
+
+DEMETRIUS
+An could  should get therefore 
+
+HERMIA
+A privilege never see more  
+And hated presence part 
+See more whether dead 
+
+ Exit  
+
+DEMETRIUS
+There following fierce vein 
+Here  therefore  while remain 
+So sorrow's heaviness doth heavier grow
+For debt bankrupt sleep doth sorrow owe 
+Which some slight measure pay 
+If tender here make some stay 
+
+ Lies down  
+
+OBERON
+What hast done  hast mistaken quite 
+And laid love-juice some true-love's sight 
+Of misprision must perforce ensue
+Some true love turn'd  false turn'd true 
+
+PUCK
+Then fate o'er-rules   man holding troth 
+A million fail  confounding oath oath 
+
+OBERON
+About wood  swifter than wind 
+And Helena Athens look find 
+All fancy-sick  pale cheer 
+With sighs love  costs fresh blood dear 
+By some illusion see bring here 
+I'll charm eyes against appear 
+
+PUCK
+I   look  
+Swifter than arrow Tartar's bow 
+
+ Exit  
+
+OBERON
+  Flower purple dye 
+  Hit Cupid's archery 
+  Sink apple eye 
+  When love doth espy 
+  shine gloriously
+  Venus sky  
+  When wak'st  
+  Beg remedy 
+
+ Re-enter PUCK  
+
+PUCK
+  Captain our fairy band 
+  Helena here at hand 
+  youth mistook me
+  Pleading lover's fee 
+  fond pageant see 
+  Lord  fools these mortals 
+
+OBERON
+  Stand aside  noise make
+  cause Demetrius awake 
+
+PUCK
+  two at once woo  
+  must needs sport alone 
+  those things best please me
+  befall preposterously 
+
+ Enter LYSANDER HELENA  
+
+LYSANDER
+Why should think should woo scorn 
+  Scorn derision never come tears 
+Look when vow  weep  vows born 
+  nativity truth appears 
+How can these things seem scorn 
+Bearing badge faith  prove true 
+
+HELENA
+You advance cunning more more 
+  When truth kills truth  devilish-holy fray 
+These vows Hermia's  give o'er 
+  Weigh oath oath  nothing weigh 
+Your vows  put two scales 
+Will even weigh  both light tales 
+
+LYSANDER
+I had judgment when swore 
+
+HELENA
+Nor none  mind  give o'er 
+
+LYSANDER
+Demetrius loves  loves 
+
+DEMETRIUS
+ Awaking  
+O Helen  goddess  nymph  perfect  divine 
+To  love  compare thine eyne 
+Crystal muddy   ripe show
+Thy lips  those kissing cherries  tempting grow 
+That pure congealed white  high Taurus' snow 
+Fann'd eastern wind  turns crow
+When hold'st hand   kiss
+This princess pure white  seal bliss 
+
+HELENA
+O spite  hell  see bent
+To set against merriment 
+If were civil  knew courtesy 
+You would much injury 
+Can hate  know 
+But must join souls mock too 
+If were men  men show 
+You would use gentle lady 
+To vow  swear  superpraise parts 
+When sure hate hearts 
+You both rivals  love Hermia 
+And both rivals  mock Helena 
+A trim exploit  manly enterprise 
+To conjure tears poor maid's eyes
+With derision  None noble sort
+Would offend virgin  extort
+A poor soul's patience  make sport 
+
+LYSANDER
+You unkind  Demetrius  
+For love Hermia  know know 
+And here  good  heart 
+In Hermia's love yield part 
+And yours Helena bequeath 
+Whom love till death 
+
+HELENA
+Never mockers waste more idle breath 
+
+DEMETRIUS
+Lysander  keep Hermia  none 
+If e'er lov'd  love gone 
+My heart guest-wise sojourn'd 
+And Helen home return'd 
+There remain 
+
+LYSANDER
+                 Helen  
+
+DEMETRIUS
+Disparage faith dost know 
+Lest  peril  aby dear  
+Look where love comes  yonder dear 
+
+ Enter HERMIA  
+
+HERMIA
+Dark night  eye function takes 
+The ear more quick apprehension makes 
+Wherein doth impair seeing sense 
+It pays hearing double recompense  
+Thou art mine eye  Lysander  found 
+Mine ear  thank  brought sound 
+But unkindly didst leave so 
+
+LYSANDER
+Why should stay whom love doth press 
+
+HERMIA
+What love could press Lysander side 
+
+LYSANDER
+Lysander's love  would him bide  
+Fair Helena  who more engilds night
+Than yon fiery oes eyes light 
+Why seek'st  could make know
+The hate bare made leave so 
+
+HERMIA
+You speak think  cannot 
+
+HELENA
+Lo  confederacy 
+Now perceive conjoin'd three
+To fashion false sport spite 
+Injurious Hermia  most ungrateful maid 
+Have conspir'd  these contriv'd 
+To bait foul derision 
+Is counsel two shar'd 
+The sisters' vows  hours spent 
+When chid hasty-footed time
+For parting   forgot 
+All school-days' friendship  childhood innocence 
+We  Hermia  two artificial gods 
+Have our needles created both flower 
+Both sampler  sitting cushion 
+Both warbling song  both key 
+As our hands  our sides  voices  minds 
+Had been incorporate  grew together 
+Like double cherry  seeming parted 
+But union partition 
+Two lovely berries moulded stem 
+So  two seeming bodies  heart 
+Two first  coats heraldry 
+Due  crowned crest 
+And rent our ancient love asunder 
+To join men scorning poor friend 
+It friendly  'tis maidenly 
+Our sex   may chide 
+Though alone feel injury 
+
+HERMIA
+I amazed at passionate words 
+I scorn  seems scorn 
+
+HELENA
+Have set Lysander  scorn 
+To follow  praise eyes face 
+And made other love  Demetrius  
+Who even spurn foot  
+To call goddess  nymph  divine  rare 
+Precious  celestial  Wherefore speaks this
+To hates  wherefore doth Lysander
+Deny love  rich within soul 
+And tender  forsooth  affection 
+But setting  consent 
+What though grace 
+So hung upon love  fortunate 
+But miserable most  love unlov'd 
+This should pity rather than despise 
+
+HERMIA
+I understand mean 
+
+HELENA
+Ay  persever  counterfeit sad looks 
+Make mows upon when turn back 
+Wink each at other  hold sweet jest 
+This sport  carried  chronicled 
+If any pity  grace  manners 
+You would make argument 
+But fare  'tis partly own fault 
+Which death  absence  soon remedy 
+
+LYSANDER
+Stay  gentle Helena  hear excuse 
+My love  life  soul  fair Helena 
+
+HELENA
+O excellent 
+
+HERMIA
+             Sweet  scorn 
+
+DEMETRIUS
+If cannot entreat  can compel 
+
+LYSANDER
+Thou canst compel more than entreat 
+Thy threats more strength than weak prayers  
+Helen  love  life 
+I swear which lose thee
+To prove him false says love 
+
+DEMETRIUS
+I say love more than can 
+
+LYSANDER
+If say  withdraw  prove too 
+
+DEMETRIUS
+Quick  come  
+
+HERMIA
+               Lysander  whereto tends 
+
+LYSANDER
+Away  Ethiope 
+
+DEMETRIUS
+                      will
+Seem break loose  take would follow 
+But come  tame man  
+
+LYSANDER
+Hang off  cat  burr  vile thing  loose 
+Or shake serpent 
+
+HERMIA
+Why grown rude  change 
+Sweet love 
+
+LYSANDER
+            love  out  tawny Tartar  out 
+Out  loathed medicine  hated potion  hence 
+
+HERMIA
+Do jest 
+
+HELENA
+                 Yes  sooth  
+
+LYSANDER
+Demetrius  keep word 
+
+DEMETRIUS
+I would had bond  perceive
+A weak bond holds  trust word 
+
+LYSANDER
+What  should hurt  strike  kill dead 
+Although hate  harm 
+
+HERMIA
+What  can greater harm than hate 
+Hate  wherefore   news  love 
+Am Hermia  Lysander 
+I fair was erewhile 
+Since night lov'd  since night left 
+Why  left   gods forbid  
+In earnest  say 
+
+LYSANDER
+                          life 
+And never desire see more 
+Therefore out hope  question  doubt 
+Be certain  nothing truer  'tis jest
+That hate love Helena 
+
+HERMIA
+O  juggler  cankerblossom 
+You thief love   come night 
+And stol'n love's heart him 
+
+HELENA
+                                     Fine  i' faith 
+Have modesty  maiden shame 
+No touch bashfulness   tear
+Impatient answers gentle tongue 
+Fie  fie  counterfeit  puppet  
+
+HERMIA
+Puppet  so   way goes game 
+Now perceive hath made compare
+Between our statures  hath urg'd height 
+And personage  tall personage 
+Her height  forsooth  hath prevail'd him  
+And grown high esteem
+Because dwarfish low 
+How low  painted maypole  speak 
+How low  low
+But nails can reach unto thine eyes 
+
+HELENA
+I pray  though mock  gentlemen 
+Let hurt  was never curst 
+I gift at shrewishness 
+I right maid cowardice 
+Let strike  perhaps may think 
+Because something lower than myself 
+That can match 
+
+HERMIA
+                      Lower  hark  again 
+
+HELENA
+Good Hermia  bitter 
+I evermore love  Hermia 
+Did ever keep counsels  never wrong'd 
+Save  love unto Demetrius 
+I told him stealth unto wood 
+He follow'd  love follow'd him 
+But hath chid hence  threaten'd me
+To strike  spurn  nay  kill too 
+And  quiet 
+To Athens bear folly back 
+And follow farther  
+You see simple fond 
+
+HERMIA
+Why  get gone  who is't hinders 
+
+HELENA
+A foolish heart leave here behind 
+
+HERMIA
+What  Lysander 
+
+HELENA
+                     Demetrius 
+
+LYSANDER
+Be afraid  harm  Helena 
+
+DEMETRIUS
+No    though take part 
+
+HELENA
+O  when she's angry  keen shrewd 
+She was vixen when went school 
+And  though little  fierce 
+
+HERMIA
+Little again  nothing low little  
+Why suffer flout thus 
+Let come 
+
+LYSANDER
+                    Get gone  dwarf 
+You minimus  hind'ring knot-grass made 
+You bead  acorn 
+
+DEMETRIUS
+                     too officious
+In behalf scorns services 
+Let alone  speak Helena 
+Take part  dost intend
+Never little show love 
+Thou shalt aby 
+
+LYSANDER
+                   holds 
+Now follow  dar'st  try whose right 
+Of thine mine  most Helena 
+
+DEMETRIUS
+Follow  nay   cheek jole 
+
+ Exeunt LYSANDER DEMETRIUS  
+
+HERMIA
+You  mistress  coil 'long 
+Nay  back 
+
+HELENA
+                  trust  
+Nor longer stay curst company 
+Your hands than mine quicker fray 
+My legs longer though  run away 
+
+ Exit  
+
+HERMIA
+I amaz'd  know say 
+
+ Exit  pursuing HELENA  
+
+OBERON
+This negligence  still mistak'st 
+Or else commit'st knaveries willfully 
+
+PUCK
+Believe  king shadows  mistook 
+Did tell should know man
+By Athenian garments had 
+And far blameless proves enterprise
+That 'nointed Athenian's eyes 
+And far glad sort 
+As jangling esteem sport 
+
+OBERON
+Thou seest these lovers seek place fight 
+Hie therefore  Robin  overcast night 
+The starry welkin cover anon
+With drooping fog  black Acheron 
+And lead these testy rivals astray
+As come within another's way 
+Like Lysander sometime frame tongue 
+Then stir Demetrius bitter wrong 
+And sometime rail Demetrius 
+And each other look lead 
+Till o'er brows death-counterfeiting sleep
+With leaden legs batty wings doth creep 
+Then crush herb into Lysander's eye 
+Whose liquor hath virtuous property 
+To take thence error might
+And make eyeballs roll wonted sight 
+When next wake  derision
+Shall seem dream fruitless vision 
+And back Athens lovers wend
+With league whose date till death never end 
+Whiles affair employ 
+I'll queen  beg Indian boy 
+And charmed eye release
+From monster's view  things peace 
+
+PUCK
+My fairy lord  must done haste 
+For night's swift dragons cut clouds full fast 
+And yonder shines Aurora's harbinger 
+At whose approach ghosts  wandering here there 
+Troop home churchyards  damned spirits 
+That cross-ways floods burial 
+Already wormy beds gone 
+For fear lest day should look shames upon
+They wilfully exile themselves light 
+And must aye consort black-brow'd night 
+
+OBERON
+But spirits another sort 
+I morning's love oft made sport 
+And  forester  groves may tread
+Even till eastern gate  fiery-red 
+Opening Neptune fair blessed beams 
+Turns into yellow gold salt-green streams 
+But  notwithstanding  haste  make delay 
+We may effect business ere day 
+
+ Exit OBERON  
+
+PUCK
+  down  down 
+  lead down 
+  fear'd field town 
+  Goblin  lead down 
+Here comes 
+
+ Enter LYSANDER  
+
+LYSANDER
+Where art  proud Demetrius  speak 
+
+PUCK
+Here  villain  drawn ready  Where art 
+
+LYSANDER
+I straight 
+
+PUCK
+                              Follow  
+To plainer ground 
+
+ Exit LYSANDER following voice  
+
+ Enter DEMETRIUS  
+
+DEMETRIUS
+                   Lysander  speak again 
+Thou runaway  coward  art fled 
+Speak  some bush  where dost hide head 
+
+PUCK
+Thou coward  art bragging stars 
+Telling bushes look'st wars 
+And wilt come  Come  recreant  come  child 
+I'll whip rod  defiled
+That draws sword 
+
+DEMETRIUS
+                            Yea  art there 
+
+PUCK
+Follow voice  we'll try manhood here 
+
+ Exeunt  
+
+ Re-enter LYSANDER  
+
+LYSANDER
+He goes before  still dares 
+When come where calls  gone 
+The villain much lighter heeled than 
+I follow'd fast  faster fly 
+That fallen dark uneven way 
+And here rest   Come  gentle day 
+ Lies down  
+For once show grey light 
+I'll find Demetrius  revenge spite 
+
+ Sleeps  
+
+ Re-enter PUCK DEMETRIUS  
+
+PUCK
+Ho  ho  ho  ho  Coward  com'st 
+
+DEMETRIUS
+Abide  dar'st  wot
+Thou runn'st before  shifting every place 
+And dar'st stand  look face 
+Where art 
+
+PUCK
+                Come hither  here 
+
+DEMETRIUS
+Nay   mock'st 
+Thou shalt buy dear 
+If ever face daylight see 
+Now  way  Faintness constraineth me
+To measure out length cold bed  
+By day's approach look visited 
+
+ Lies down sleeps  
+
+ Enter HELENA  
+
+HELENA
+O weary night  long tedious night 
+Abate hours  Shine comforts east 
+That may back Athens daylight 
+From these poor company detest  
+And sleep  sometimes shuts sorrow's eye 
+Steal awhile mine own company 
+
+ Sleeps  
+
+PUCK
+  three  Come more 
+  Two both kinds makes four 
+  Here comes  curst sad  
+  Cupid knavish lad 
+  make poor females mad 
+
+ Enter HERMIA  
+
+HERMIA
+Never weary  never woe 
+  Bedabbled dew  torn briers 
+I can further crawl  further 
+  legs can keep pace desires 
+Here rest till break day 
+Heavens shield Lysander  mean fray 
+
+ Lies down  
+
+PUCK
+  ground
+  Sleep sound 
+  apply
+  eye 
+  Gentle lover  remedy 
+
+ Squeezing juice LYSANDER'S eye  
+
+  When wak'st 
+  tak'st
+  True delight
+  sight
+Of former lady's eye 
+And country proverb known 
+That every man should take own 
+In waking shown 
+  Jack Jill 
+  Nought ill 
+The man mare again  
+
+ Exit PUCK  DEMETRIUS  HELENA &c  sleep  
+
+
+
+ACT IV
+
+SCENE  Wood 
+
+ Enter TITANIA BOTTOM  PEASBLOSSOM  COBWEB  MOTH 
+MUSTARDSEED  other FAIRIES attending  OBERON behind  unseen  
+
+TITANIA
+Come  sit down upon flowery bed 
+  While amiable cheeks coy 
+And stick musk-roses sleek smooth head 
+  kiss fair large ears  gentle joy 
+
+BOTTOM
+Where's Peasblossom 
+
+PEASBLOSSOM
+Ready 
+
+BOTTOM
+Scratch head  Peasblossom  
+Where's Monsieur Cobweb 
+
+COBWEB
+Ready 
+
+BOTTOM
+Monsieur Cobweb  good monsieur  get weapons in
+your hand kill red-hipped humble-bee top a
+thistle   good monsieur  bring honey-bag  not
+fret yourself too much action  monsieur   good
+monsieur  care honey-bag break  would be
+loath overflown honey-bag  signior  
+Where's Monsieur Mustardseed 
+
+MUSTARDSEED
+Ready 
+
+BOTTOM
+Give neif  Monsieur Mustardseed 
+Pray  leave curtsy  good monsieur 
+
+MUSTARDSEED
+What's 
+
+BOTTOM
+Nothing  good monsieur  help Cavalero Cobweb to
+scratch  must barber's  monsieur  methinks am
+marvellous hairy about face  tender ass 
+if hair tickle must scratch 
+
+TITANIA
+What  wilt hear some music  sweet love 
+
+BOTTOM
+I reasonable good ear music  the
+tongs bones 
+
+TITANIA
+Or say  sweet love  desirest eat 
+
+BOTTOM
+Truly  peck provender  could munch good dry
+oats  Methinks great desire bottle hay  good
+hay  sweet hay  hath fellow 
+
+TITANIA
+I venturous fairy seek
+The squirrel's hoard  fetch new nuts 
+
+BOTTOM
+I had rather handful two dried peas  
+I pray  none people stir  an
+exposition sleep come upon 
+
+TITANIA
+Sleep  wind arms 
+Fairies  gone  ways away 
+So doth woodbine sweet honeysuckle
+Gently entwist  female ivy so
+Enrings barky fingers elm 
+O  love  dote 
+
+ sleep  
+
+ OBERON advances  Enter PUCK  
+
+OBERON
+Welcome  good Robin  Seest sweet sight 
+Her dotage begin pity 
+For  meeting late behind wood 
+Seeking sweet favours hateful fool 
+I upbraid fall out 
+For hairy temples had rounded
+With coronet fresh fragrant flowers 
+And same dew  which sometime buds
+Was wont swell round orient pearls 
+Stood within pretty flow'rets' eyes 
+Like tears own disgrace bewail 
+When had  at pleasure  taunted 
+And  mild terms  begg'd patience 
+I ask changeling child 
+Which straight gave  fairy sent
+To bear him bower fairy-land 
+And boy  undo
+This hateful imperfection eyes 
+And  gentle Puck  take transformed scalp
+From off head Athenian swain 
+That awaking when other 
+May Athens back again repair 
+And think more night's accidents
+But fierce vexation dream 
+But first release fairy queen 
+  wast wont 
+ Touching eyes herb  
+  See was wont see 
+  Dian's bud o'er Cupid's flower
+  Hath force blessed power 
+Now  Titania  wake  sweet queen 
+
+TITANIA
+My Oberon  visions seen 
+Methought was enamour'd ass 
+
+OBERON
+There lies love 
+
+TITANIA
+                      came these things pass 
+O  mine eyes loathe visage 
+
+OBERON
+Silence awhile  Robin  take off head 
+Titania  music call  strike more dead
+Than common sleep  these five  sense 
+
+TITANIA
+Music  ho  music  charmeth sleep 
+
+PUCK
+Now when wak'st  thine own fool's eyes peep 
+
+OBERON
+Sound  music   Still music   Come  queen  take hands 
+And rock ground whereon these sleepers 
+Now new amity 
+And to-morrow midnight solemnly
+Dance Duke Theseus' house triumphantly 
+And bless fair prosperity 
+There pairs faithful lovers be
+Wedded  Theseus  jollity 
+
+PUCK
+Fairy king  attend mark 
+I hear morning lark 
+
+OBERON
+   queen  silence sad 
+  Trip after night's shade 
+  globe can compass soon 
+  Swifter than wand'ring moon 
+
+TITANIA
+  Come  lord  our flight 
+  Tell came night
+  sleeping here was found
+  these mortals ground 
+
+ Exeunt  Horns sound within  
+
+ Enter THESEUS  HIPPOLYTA  EGEUS  Train  
+
+THESEUS
+Go   find out forester  
+For our observation perform'd 
+And since vaward day 
+My love hear music hounds  
+Uncouple western valley   
+Despatch  say  find forester  
+
+ Exit ATTENDANT  
+
+We  fair queen  mountain's top 
+And mark musical confusion
+Of hounds echo conjunction 
+
+HIPPOLYTA
+I was Hercules Cadmus once
+When wood Crete bay'd bear
+With hounds Sparta  never hear
+Such gallant chiding   besides groves 
+The skies  fountains  every region near
+Seem'd mutual cry  never heard
+So musical discord  sweet thunder 
+
+THESEUS
+My hounds bred out Spartan kind 
+So flew'd  sanded  heads hung
+With ears sweep away morning dew 
+Crook-knee'd dew-lap'd Thessalian bulls 
+Slow pursuit  match'd mouth bells 
+Each under each  cry more tuneable
+Was never holla'd  cheer'd horn 
+In Crete  Sparta  Thessaly 
+Judge when hear   soft  nymphs these 
+
+EGEUS
+My lord  daughter here asleep 
+And Lysander  Demetrius 
+This Helena  old Nedar's Helena 
+I wonder being here together 
+
+THESEUS
+No doubt rose early observe
+The rite May   hearing our intent 
+Came here grace our solemnity  
+But speak  Egeus  day
+That Hermia should give answer choice 
+
+EGEUS
+It  lord 
+
+THESEUS
+Go  bid huntsmen wake horns 
+
+ Horns  shout within  DEMETRIUS  LYSANDER HERMIA  HELENA
+awake start  
+
+Good-morrow  friends  Saint Valentine past 
+Begin these wood-birds couple 
+
+LYSANDER
+Pardon  lord 
+
+ rest kneel THESEUS  
+
+THESEUS
+                 pray  stand 
+I know two rival enemies 
+How comes gentle concord world 
+That hatred far jealousy
+To sleep hate  fear enmity 
+
+LYSANDER
+My lord  reply amazedly 
+Half 'sleep  half waking   swear 
+I cannot truly say came here 
+But  think  truly would speak 
+And bethink   
+I came Hermia hither  our intent
+Was gone Athens  where might 
+Without peril Athenian law 
+
+EGEUS
+Enough  enough  lord  enough 
+I beg law  law upon head  
+They would stol'n away  would  Demetrius 
+Thereby defeated 
+You wife  consent  
+Of consent should wife 
+
+DEMETRIUS
+My lord  fair Helen told stealth 
+Of purpose hither wood 
+And fury hither follow'd 
+Fair Helena fancy following 
+But  good lord  wot power  
+But some power  love Hermia 
+Melted snow seems now
+As remembrance idle gawd
+Which childhood dote upon 
+And faith  virtue heart 
+The object pleasure mine eye 
+Is only Helena   lord 
+Was betroth'd ere saw Hermia 
+But  sickness  loathe food 
+But  health  come natural taste 
+Now wish  love  long 
+And evermore true 
+
+THESEUS
+Fair lovers  fortunately met 
+Of discourse more hear anon  
+Egeus  overbear 
+For temple  
+These couples eternally knit 
+And  morning something worn 
+Our purpos'd hunting set aside  
+Away Athens  three three 
+We'll hold feast great solemnity  
+Come  Hippolyta 
+
+ Exeunt THESEUS  HIPPOLYTA  EGEUS  Train  
+
+DEMETRIUS
+These things seem small undistinguishable 
+Like far-off mountains turned into clouds 
+
+HERMIA
+Methinks see these things parted eye 
+When every thing seems double 
+
+HELENA
+                               methinks 
+And found Demetrius jewel 
+Mine own  mine own 
+
+DEMETRIUS
+                            seems me
+That sleep  dream  think
+The duke was here  bid follow him 
+
+HERMIA
+Yea  father 
+
+HELENA
+                    Hippolyta 
+
+LYSANDER
+And bid follow temple 
+
+DEMETRIUS
+Why   awake  let's follow him 
+And way recount our dreams 
+
+ Exeunt  
+
+ out  BOTTOM awakes  
+
+BOTTOM
+When cue comes  call  answer  next 'Most
+fair Pyramus ' Heigh-ho  Peter Quince  Flute  the
+bellows-mender  Snout  tinker  Starveling  God's life 
+stol'n hence  left asleep  had most rare
+vision  had dream past wit man say
+what dream was  Man ass about
+to expound dream  Methought was there man can tell
+what  Methought was  methought had  man a
+patched fool  offer say methought had  The
+eye man hath heard  ear man hath seen  man's
+hand able taste  tongue conceive  heart
+to report  dream was  get Peter Quince write a
+ballad dream  called Bottom's Dream  because
+it hath bottom  sing latter end a
+play  before duke  peradventure  make more
+gracious  sing at death 
+
+ Exit  
+
+
+
+SCENE II  Athens  Room QUINCE'S House 
+
+ Enter QUINCE  FLUTE  SNOUT  STARVELING  
+
+QUINCE
+Have sent Bottom's house  come home 
+
+STARVELING
+He cannot heard  Out doubt  transported 
+
+FLUTE
+If come  play marred  goes not
+forward  doth 
+
+QUINCE
+It possible  man Athens
+able discharge Pyramus 
+
+FLUTE
+No  hath simply best wit any handicraft man in
+Athens 
+
+QUINCE
+Yea  best person too  very paramour
+for sweet voice 
+
+FLUTE
+You must say paragon  paramour  God bless  thing of
+naught 
+
+ Enter SNUG  
+
+SNUG
+Masters  duke coming temple  there is
+two three lords ladies more married  our sport had gone
+forward  had been made men 
+
+FLUTE
+O sweet bully Bottom  hath lost sixpence day
+during life  could 'scaped sixpence a-day  an
+the duke had given him sixpence a-day playing Pyramus 
+I'll hanged  would deserved  sixpence a-day in
+Pyramus  nothing 
+
+ Enter BOTTOM  
+
+BOTTOM
+Where these lads  where these hearts 
+
+QUINCE
+Bottom  most courageous day  most happy hour 
+
+BOTTOM
+Masters  discourse wonders  ask not
+what  tell  true Athenian  tell you
+everything  right fell out 
+
+QUINCE
+Let hear  sweet Bottom 
+
+BOTTOM
+Not word  tell  the
+duke hath dined  Get apparel together  good strings to
+your beards  new ribbons pumps  meet presently at the
+palace  every man look over part  short long
+is  our play preferred  any case  Thisby clean
+linen  him plays lion pare nails  for
+they hang out lion's claws   most dear actors 
+eat onions garlick  utter sweet breath  and
+I doubt hear say sweet comedy  more
+words  away   away 
+
+ Exeunt  
+
+
+
+ACT V
+
+SCENE  Athens  Apartment Palace THESEUS 
+
+ Enter THESEUS  HIPPOLYTA  PHILOSTRATE  Lords  Attendants  
+
+HIPPOLYTA
+'Tis strange  Theseus  these lovers speak 
+
+THESEUS
+More strange than true  never may believe
+These antique fables  these fairy toys 
+Lovers madmen seething brains 
+Such shaping fantasies  apprehend
+More than cool reason ever comprehends 
+The lunatic  lover  poet
+Are imagination compact 
+One sees more devils than vast hell can hold 
+That madman  lover  frantic 
+Sees Helen's beauty brow Egypt 
+The poet's eye  fine frenzy rolling 
+Doth glance heaven earth  earth heaven 
+And imagination bodies forth
+The forms things unknown  poet's pen
+Turns shapes  gives airy nothing
+A local habitation name 
+Such tricks hath strong imagination 
+That  would apprehend some joy 
+It comprehends some bringer joy 
+Or night  imagining some fear 
+How easy bush supposed bear 
+
+HIPPOLYTA
+But story night told over 
+And minds transfigur'd together 
+More witnesseth than fancy's images 
+And grows something great constancy 
+But  howsoever  strange admirable 
+
+ Enter LYSANDER  DEMETRIUS  HERMIA  HELENA  
+
+THESEUS
+Here come lovers  full joy mirth  
+Joy  gentle friends  joy fresh days love
+Accompany hearts 
+
+LYSANDER
+                       More than us
+Wait royal walks  board  bed 
+
+THESEUS
+Come  masques  dances 
+To wear away long age three hours
+Between our after-supper bed-time 
+Where our usual manager mirth 
+What revels hand  there play
+To ease anguish torturing hour 
+Call Philostrate 
+
+PHILOSTRATE
+                  Here  mighty Theseus 
+
+THESEUS
+Say  abridgment evening 
+What masque  music  beguile
+The lazy time  some delight 
+
+PHILOSTRATE
+There brief many sports ripe 
+Make choice which highness see first 
+
+ Giving paper  
+
+THESEUS
+ Reads  
+  'The battle Centaurs  sung
+  Athenian eunuch harp '
+We'll none  told love 
+In glory kinsman Hercules 
+  'The riot tipsy Bacchanals 
+  Tearing Thracian singer rage '
+That old device  was play'd
+When Thebes came last conqueror 
+  'The thrice three Muses mourning death
+  learning  late deceas'd beggary '
+That some satire  keen critical 
+Not sorting nuptial ceremony 
+  'A tedious brief scene young Pyramus
+  love Thisbe  very tragical mirth '
+Merry tragical  tedious brief 
+That hot ice wondrous strange snow 
+How find concord discord 
+
+PHILOSTRATE
+A play there  lord  some ten words long 
+Which brief known play 
+But ten words  lord  too long 
+Which makes tedious  play
+There word apt  player fitted 
+And tragical  noble lord  
+For Pyramus therein doth kill himself 
+Which when saw rehears'd  must confess 
+Made mine eyes water  more merry tears
+The passion loud laughter never shed 
+
+THESEUS
+What play 
+
+PHILOSTRATE
+Hard-handed men work Athens here 
+Which never labour'd minds till 
+And toil'd unbreath'd memories
+With same play against nuptial 
+
+THESEUS
+And hear 
+
+PHILOSTRATE
+                      noble lord 
+It  heard over 
+And nothing  nothing world 
+Unless can find sport intents 
+Extremely stretch'd conn'd cruel pain 
+To service 
+
+THESEUS
+                   hear play 
+For never anything can amiss
+When simpleness duty tender 
+Go  bring  take places  ladies 
+
+ Exit PHILOSTRATE  
+
+HIPPOLYTA
+I love see wretchedness o'er-charged 
+And duty service perishing 
+
+THESEUS
+Why  gentle sweet  see thing 
+
+HIPPOLYTA
+He says can nothing kind 
+
+THESEUS
+The kinder  give thanks nothing 
+Our sport take mistake 
+And poor duty cannot 
+Noble respect takes might  merit 
+Where come  great clerks purposed
+To greet premeditated welcomes 
+Where seen shiver look pale 
+Make periods midst sentences 
+Throttle practis'd accent fears 
+And  conclusion  dumbly broke off 
+Not paying welcome  Trust  sweet 
+Out silence pick'd welcome 
+And modesty fearful duty
+I read much rattling tongue
+Of saucy audacious eloquence 
+Love  therefore  tongue-tied simplicity
+In least speak most capacity 
+
+ Enter PHILOSTRATE  
+
+PHILOSTRATE
+So please grace  prologue address'd 
+
+THESEUS
+Let him approach 
+
+ Flourish trumpets  Enter PROLOGUE  
+
+PROLOGUE
+'If offend  our good 
+  should think  come offend 
+But good   show our simple skill 
+  true beginning our end 
+Consider  come despite 
+  come  minding content 
+Our true intent   delight
+  here   should here repent 
+The actors at hand   show 
+You know know '
+
+THESEUS
+This fellow doth stand upon points 
+
+LYSANDER
+He hath rid prologue rough colt  knows
+not stop  good moral  lord  enough speak 
+but speak true 
+
+HIPPOLYTA
+Indeed hath played prologue child
+on recorder  sound  government 
+
+THESEUS
+His speech was tangled chain  nothing impaired  all
+disordered  Who next 
+
+ Enter PYRAMUS THISBE  WALL  MOONSHINE  LION  dumb
+show  
+
+PROLOGUE
+Gentles  perchance wonder at show 
+  wonder  till truth make things plain 
+This man Pyramus  would know 
+  beauteous lady Thisby certain 
+This man  lime rough-cast  doth present
+  Wall  vile Wall which these lovers sunder 
+And through Wall's chink  poor souls  content
+  whisper  at which man wonder 
+This man  lanthorn  dog  bush thorn 
+  Presenteth Moonshine   know 
+By moonshine these lovers think scorn
+  meet at Ninus' tomb  there  there woo 
+This grisly beast  which name Lion hight 
+The trusty Thisby  coming first night 
+Did scare away  rather affright 
+And fled  mantle fall 
+  Which Lion vile bloody mouth stain 
+Anon comes Pyramus  sweet youth  tall 
+  finds trusty Thisby's mantle slain 
+Whereat blade  bloody blameful blade 
+  bravely broach'd boiling bloody breast 
+And Thisby  tarrying mulberry shade 
+  dagger drew  died  rest 
+Let Lion  Moonshine  Wall  lovers twain 
+At large discourse while here remain 
+
+ Exeunt PROLOGUE  THISBE  LION  MOONSHINE  
+
+THESEUS
+I wonder lion speak 
+
+DEMETRIUS
+No wonder  lord  lion may  when many asses 
+
+WALL
+In same interlude doth befall
+That  Snout name  present wall 
+And wall would think
+That had crannied hole chink 
+Through which lovers  Pyramus Thisby 
+Did whisper often very secretly 
+This loam  rough-cast  stone  doth show
+That same wall  truth 
+And cranny  right sinister 
+Through which fearful lovers whisper 
+
+THESEUS
+Would desire lime hair speak better 
+
+DEMETRIUS
+It wittiest partition ever heard
+discourse  lord 
+
+THESEUS
+Pyramus draws near wall  silence 
+
+ Enter PYRAMUS  
+
+PYRAMUS
+O grim-look'd night  night hue black 
+  night  which ever art when day 
+O night  night  alack  alack  alack 
+ fear Thisby's promise forgot  
+And  wall  sweet  lovely wall 
+ stand'st between father's ground mine 
+Thou wall  wall  sweet lovely wall 
+  Show chink  blink through mine eyne 
+
+ WALL holds fingers  
+
+Thanks  courteous wall  Jove shield 
+  see see  Thisby see 
+O wicked wall  through whom see bliss 
+  Curs'd stones deceiving 
+
+THESEUS
+The wall  methinks  being sensible  should curse again 
+
+PYRAMUS
+No  truth   should  'Deceiving me' is
+Thisby's cue  enter  spy through
+the wall  see fall pat told  Yonder
+she comes 
+
+ Enter THISBE  
+
+THISBE
+O wall  full often hast heard moans 
+  parting fair Pyramus 
+My cherry lips often kiss'd stones 
+  stones lime hair knit 
+
+PYRAMUS
+I see voice  chink 
+To spy can hear Thisby's face 
+Thisby 
+
+THISBE
+        love  art love  think 
+
+PYRAMUS
+Think wilt  lover's grace 
+And Limander trusty still 
+
+THISBE
+And Helen  till fates kill 
+
+PYRAMUS
+Not Shafalus Procrus was true 
+
+THISBE
+As Shafalus Procrus  
+
+PYRAMUS
+O  kiss through hole vile wall 
+
+THISBE
+I kiss wall's hole  lips at 
+
+PYRAMUS
+Wilt at Ninny's tomb meet straightway 
+
+THISBE
+'Tide life  'tide death  come without delay 
+
+WALL
+Thus  wall  part discharged 
+And  being done  Wall away doth 
+
+ Exeunt WALL  PYRAMUS THISBE  
+
+THESEUS
+Now mural down between two neighbours 
+
+DEMETRIUS
+No remedy  lord  when walls wilful hear
+without warning 
+
+HIPPOLYTA
+This silliest stuff ever heard 
+
+THESEUS
+The best kind shadows  worst
+are worse  imagination amend 
+
+HIPPOLYTA
+It must imagination  theirs 
+
+THESEUS
+If imagine worse than of
+themselves  may pass excellent men 
+Here come two noble beasts  moon lion 
+
+ Enter LION MOONSHINE  
+
+LION
+You  ladies   whose gentle hearts fear
+  smallest monstrous mouse creeps floor 
+May  perchance  both quake tremble here 
+  When lion rough wildest rage doth roar 
+Then know  Snug joiner  am
+A lion fell  else lion's dam 
+For  should lion come strife
+Into place  'twere pity life 
+
+THESEUS
+A very gentle beast  good conscience 
+
+DEMETRIUS
+The very best at beast  lord  e'er saw 
+
+LYSANDER
+This lion very fox valour 
+
+THESEUS
+True  goose discretion 
+
+DEMETRIUS
+Not  lord  valour cannot carry his
+discretion  fox carries goose 
+
+THESEUS
+His discretion  sure  cannot carry valour 
+for goose carries fox   leave his
+discretion  listen moon 
+
+MOONSHINE
+This lanthorn doth horned moon present 
+
+DEMETRIUS
+He should worn horns head 
+
+THESEUS
+He crescent  horns invisible within
+the circumference 
+
+MOONSHINE
+This lanthorn doth horned moon present 
+Myself man i' moon seem 
+
+THESEUS
+This greatest error rest  man should be
+put into lantern  else man i' moon 
+
+DEMETRIUS
+He dares come there candle   you
+see  already snuff 
+
+HIPPOLYTA
+I aweary moon  would would change 
+
+THESEUS
+It appears  small light discretion  he
+is wane   courtesy  reason  must
+stay time 
+
+LYSANDER
+Proceed  moon 
+
+MOON
+All say  tell lantern
+is moon   man i' moon  thorn-bush  my
+thorn-bush  dog  dog 
+
+DEMETRIUS
+Why  these should lantern  all
+these moon  silence  here comes Thisbe 
+
+ Enter THISBE  
+
+THISBE
+This old Ninny's tomb  Where love 
+
+LION
+Oh 
+
+ LION roars  THISBE runs off  
+
+DEMETRIUS
+Well roared  lion 
+
+THESEUS
+Well run  Thisbe 
+
+HIPPOLYTA
+Well shone  moon  Truly  moon shines good grace 
+
+ LION tears THISBE'S Mantle  exit  
+
+THESEUS
+Well moused  lion 
+
+DEMETRIUS
+And comes Pyramus 
+
+LYSANDER
+And lion vanishes 
+
+ Enter PYRAMUS  
+
+PYRAMUS
+Sweet moon  thank sunny beams 
+  thank  moon  shining bright 
+For  gracious golden  glittering streams 
+  trust take truest Thisby's sight 
+      stay  spite 
+      mark  poor knight 
+    dreadful dole here 
+      Eyes  see 
+      can 
+    dainty duck  dear 
+      mantle good 
+       stained blood 
+    Approach  furies fell 
+      fates  come  come 
+      Cut thread thrum 
+    Quail  rush  conclude  quell 
+
+THESEUS
+This passion  death dear friend  would go
+near make man look sad 
+
+HIPPOLYTA
+Beshrew heart  pity man 
+
+PYRAMUS
+O wherefore  nature  didst lions frame 
+  Since lion vile hath here deflower'd dear 
+Which  which was fairest dame
+  liv'd  lov'd  lik'd  look'd cheer 
+      Come  tears  confound 
+      Out  sword  wound
+    pap Pyramus 
+       left pap 
+      Where heart doth hop  
+    die    
+      dead 
+      fled 
+    soul sky 
+      Tongue  lose light 
+      Moon  take flight 
+    die  die  die  die  die 
+
+ Dies  Exit MOONSHINE  
+
+DEMETRIUS
+No die  ace  him  
+
+LYSANDER
+Less than ace  man  dead  nothing 
+
+THESEUS
+With help surgeon might recover prove ass 
+
+HIPPOLYTA
+How chance moonshine gone before Thisbe comes
+back finds lover 
+
+THESEUS
+She find him starlight  Here comes  and
+her passion ends play 
+
+ Enter THISBE  
+
+HIPPOLYTA
+Methinks should use long a
+Pyramus  hope brief 
+
+DEMETRIUS
+A mote turn balance  which Pyramus  which
+Thisbe  better 
+
+LYSANDER
+She hath spied him already those sweet eyes 
+
+DEMETRIUS
+And moans  videlicet  
+
+THISBE
+     Asleep  love 
+      dead  dove 
+   Pyramus  arise 
+     Speak  speak  Quite dumb 
+     Dead  dead  tomb
+   Must cover sweet eyes 
+     These lily lips 
+     cherry nose 
+   These yellow cowslip cheeks 
+     gone  gone 
+     Lovers  make moan 
+   eyes were green leeks 
+     Sisters Three 
+     Come  come 
+   hands pale milk 
+     Lay gore 
+     Since shore
+   shears thread silk 
+     Tongue  word  
+     Come  trusty sword 
+   Come  blade  breast imbrue 
+     farewell  friends  
+     Thisbe ends 
+   Adieu  adieu  adieu 
+
+ Dies  
+
+THESEUS
+Moonshine lion left bury dead 
+
+DEMETRIUS
+Ay  wall too 
+
+BOTTOM
+No  assure  wall down parted fathers 
+Will please see epilogue  hear Bergomask
+dance between two our company 
+
+THESEUS
+No epilogue  pray  play needs no
+excuse  Never excuse  when players dead there
+need none blamed  Marry  writ had played
+Pyramus  hang'd himself Thisbe's garter  would have
+been fine tragedy   truly  very notably
+discharged  come  Bergomask  epilogue alone 
+
+ Here dance Clowns  
+
+The iron tongue midnight hath told twelve  
+Lovers  bed  'tis almost fairy time 
+I fear out-sleep coming morn 
+As much night overwatch'd 
+This palpable-gross play hath beguil'd
+The heavy gait night  Sweet friends  bed  
+A fortnight hold solemnity 
+In nightly revels new jollity 
+
+ Exeunt  
+
+
+
+SCENE II
+
+ Enter PUCK  
+
+PUCK
+  hungry lion roars 
+   wolf behowls moon 
+  heavy ploughman snores 
+   weary task fordone 
+  wasted brands glow 
+   scritch-owl  scritching loud 
+  Puts wretch lies woe
+   remembrance shroud 
+  time night
+   graves  gaping wide 
+  Every lets forth its sprite 
+   church-way paths glide 
+  fairies  run
+   triple Hecate's team
+  presence sun 
+   Following darkness dream 
+  frolic  mouse
+   disturb hallow'd house 
+  sent broom before 
+   sweep dust behind door 
+
+ Enter OBERON TITANIA  Train  
+
+OBERON
+  Through house give glimmering light 
+    dead drowsy fire 
+  Every elf fairy sprite
+    Hop light bird brier 
+  ditty  after 
+  Sing dance trippingly 
+
+TITANIA
+  First  rehearse song rote 
+    each word warbling note 
+  Hand hand  fairy grace 
+  sing  bless place 
+
+ Song Dance  
+
+OBERON
+   until break day 
+  Through house each fairy stray 
+  best bride-bed 
+  Which blessed 
+  issue there create
+  Ever fortunate 
+  couples three
+  Ever true loving 
+  blots Nature's hand
+  issue stand 
+  Never mole  hare-lip  scar 
+  mark prodigious  are
+  Despised nativity 
+  upon children  
+  field-dew consecrate 
+  Every fairy take gate 
+  each several chamber bless 
+  Through palace  sweet peace 
+  E'er safety rest 
+  owner blest 
+    Trip away 
+    Make stay 
+  Meet break day 
+
+ Exeunt OBERON  TITANIA  Train  
+
+PUCK
+  shadows offended 
+  Think  mended  
+  slumber'd here
+  While these visions appear 
+  weak idle theme 
+  more yielding dream 
+  Gentles  reprehend 
+  pardon  mend 
+   honest Puck 
+  unearned luck
+  'scape serpent's tongue 
+  make amends ere long 
+  Else Puck liar call 
+   good night unto 
+  Give hands  friends 
+  Robin restore amends 
+
+
